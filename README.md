@@ -1,1 +1,1 @@
-# Kumari-Plant-Nursery.github.io
+# KumariPlantNursery.github.io
